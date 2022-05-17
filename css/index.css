@@ -1,0 +1,26 @@
+/* #mateus {
+  display: flex;
+  width: auto;
+  height: auto;
+  max-width: 600px;
+}
+
+.vyctor {
+  margin: 30px;
+}
+
+h1,
+h2 {
+  color: red;
+  font-size: 40px;
+  font-weight: 700;
+  font-family: sans-serif;
+  background-color: blue;
+}
+ */
+h1 {
+  border: 1px solid red;
+  margin: 20px;
+  padding: 40px;
+  width: auto;
+}

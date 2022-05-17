@@ -1,0 +1,21 @@
+* strong {
+  font-weight: bold;
+}
+
+* em {
+  font-style: italic;
+}
+
+.oi {
+  display: flex;
+  justify-content: center;
+  background-color: red;
+}
+.oi img {
+  height: 150px;
+  width: 150px;
+  margin-top: 50px;
+  justify-content: space-between;
+  margin-right: 25px;
+  /*margin-right: 25px;*/
+}
